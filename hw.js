@@ -1,0 +1,1 @@
+console.log(Math.min(53, 23, 5, 43, 5 ))
